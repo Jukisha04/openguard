@@ -1,0 +1,3 @@
+# telegram_config.py
+TELEGRAM_TOKEN = "8407002470:AAHDq2nRRdzydDBcKZmxNGcpDxJvtavK81U"
+CHAT_ID = "8186497303"
