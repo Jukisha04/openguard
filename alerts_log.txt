@@ -1,0 +1,10 @@
+----- Wi-Fi IDS Alert Log Started -----
+[Info] Beacon | SSID: HomeWiFi | MAC: 00:11:22:33:44:01 | OK
+[Info] Beacon | SSID: HomeWiFi | MAC: 00:11:22:33:44:01 | OK
+[Info] Beacon | SSID: HomeWiFi | MAC: 00:11:22:33:44:01 | OK
+🔴 [Critical] Rogue AP detected: HomeWiFi from 00:11:22:33:44:02
+🔴 [Critical] Rogue AP detected: HomeWiFi from 00:11:22:33:44:06
+🔴 [Critical] Rogue AP detected: OfficeWiFi from 00:11:22:33:44:07
+🔴 [Critical] Rogue AP detected: GuestWiFi from 00:11:22:33:44:08
+🔴 [Critical] Rogue AP detected: CafeWiFi from 00:11:22:33:44:09
+🔴 [Critical] Rogue AP detected: HomeWiFi from 00:11:22:33:44:0B
